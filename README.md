@@ -1,4 +1,4 @@
-![logo](https://github.com/Hafsa-Farhan/Hafsa-Farhan/blob/main/Banner.png)
+![logo](https://github.com/Hafsa-Farhan/Hafsa-Farhan/blob/main/Software%20Engineering.png)
 <h1 align="center">Hi 👋, I'm Hafsa Farhan</h1>
 <h3 align="center">Dedicated QA Engineer Committed To Delivering Flawless Software Experiences.</h3>
 <img align="right" alt="software" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
